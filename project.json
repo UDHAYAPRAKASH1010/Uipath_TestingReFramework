@@ -87,7 +87,8 @@
         "fileName": "Tests\\WorkflowTestCaseTemplate.xaml"
       }
     ],
-    "saveToCloud": false
+    "saveToCloud": false,
+    "cloudProjectUrl": "https://cloud.uipath.com:443/prakashcpmu2025/studio_/designer/2f60af21-d355-492f-9317-a3a364bf772e"
   },
   "expressionLanguage": "VisualBasic",
   "entryPoints": [
